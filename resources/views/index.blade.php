@@ -27,8 +27,8 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item dropdown"><button class="btn btn-outline-primary text-light me-3 mt-1 dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
-                            Login
+                    <li class="nav-item dropdown"><button class="btn btn-outline-primary text-light me-3 mt-1 mb-2 dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
+                            Login  &nbsp;
                         </button>
                         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton2">
                             <li><a class="dropdown-item" href="https://www.student.dare2coders.com/login">Student</a></li>
@@ -38,7 +38,7 @@
                             <li><a class="dropdown-item" href="https://www.faculty.dare2coders.com/login">Faculty</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item"><button class="btn btn-outline-light text-hover-dark mt-1  dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
+                    <li class="nav-item"><button class="btn btn-outline-light text-hover-dark mt-lg-1  dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
                             Sign-up
                         </button>
                         <ul class="dropdown-menu dropdown-menu-dark" style="left:auto;top:auto;" aria-labelledby="dropdownMenuButton2">
@@ -54,7 +54,7 @@
         </div>
     </nav>
     <!-- Header-->
-    <header class="masthead  bkg-custom text-center text-white">
+    <header class="masthead  bkg-custom text-center text-white h-100" >
         <ul>
             <li></li>
             <li></li>
@@ -68,7 +68,7 @@
             <li></li>
         </ul>
         <div class="masthead-content">
-            <div class="container px-5">
+            <div class="container px-lg-5 px-md-1">
                 <h1 class="heading fw-bold display-4 mb-0">Dronacharya Groups of Institutions</h1>
                 <h2 class="subheading fw-normal display-5 mb-0">Training & Placement Cell</h2>
                 <a class="btn btn-primary btn-xl rounded-pill mt-5" href="#scroll">Learn More</a>
@@ -150,12 +150,12 @@
     </section>
     <!-- Footer-->
     <footer class="py-4 bg-dark mt-5 main-footer">
-        <div class="container px-5">
+        <div class="container px-1 px-md-5">
             <p class="m-0 text-center text-light ">Copyright &copy; <script>
                     var year = new Date();
                     document.write(year.getFullYear());
-                </script> <a href="https://www.dare2coders.com" class="text-primary text-decoration-none">Dare2Coders</a>. &nbsp; All Right Reserved.</p>
-            <p class="m-0 text-center text-light"> Designed and Developed by <span class="text-primary"><a href="https://incredibles.dare2coders.com" class="text-decoration-none">Incredibals</a>.</span></p>
+                </script> <a href="https://www.dare2coders.com" class="text-primary text-decoration-none">Dare2Coders</a>. &nbsp; All Right Reserved
+            | Designed and Developed by <span class="text-primary"><a href="https://incredibles.dare2coders.com" class="text-decoration-none">Incredibles</a>.</span></p>
         </div>
     </footer>
 
