@@ -77,7 +77,7 @@
     </header>
     <!-- Content section 1-->
     <section id="scroll">
-        <div class="container px-5">
+        <div class="container px-3 px-lg-5">
             <div class="row gx-5 align-items-center">
                 <div class="col-lg-5 order-lg-2">
                     <div class="p-5"><img class="img-fluid rounded-circle" src="{{ asset('img/skill.png'); }}" alt="SKILLS" /></div>
@@ -95,7 +95,7 @@
     </section>
     <!-- Content section 2-->
     <section>
-        <div class="container px-5">
+        <div class="container px-3 px-lg-5">
             <div class="row gx-5 align-items-center">
                 <div class="col-lg-5">
                     <div class="p-5"><img class="img-fluid rounded" src="{{ asset('img/training.jpg'); }}" alt="TRAINING" /></div>
@@ -114,7 +114,7 @@
     </section>
     <!-- Content section 3-->
     <section>
-        <div class="container px-5">
+        <div class="container px-3 px-lg-5">
             <div class="row gx-5 align-items-center">
                 <div class="col-lg-4 order-lg-2">
                     <div class="p-0"><img class="img-fluid" src="{{ asset('img/hackathons.jpg'); }}" height="275px" width="400px" alt="HACKATHONS" /></div>
@@ -132,7 +132,7 @@
     </section>
     <!-- Content section 4-->
     <section>
-        <div class="container px-5">
+        <div class="container px-3 px-lg-5">
             <div class="row gx-5 align-items-center">
                 <div class="col-lg-4">
                     <div class="p-5"><img class="img-fluid" src="{{ asset('img/cv.png'); }}" alt="CV MODULATOR" /></div>
@@ -154,7 +154,7 @@
             <p class="m-0 text-center text-light ">Copyright &copy; <script>
                     var year = new Date();
                     document.write(year.getFullYear());
-                </script> <a href="https://www.dare2coders.com" class="text-primary text-decoration-none">Dare2Coders</a>. &nbsp; All Right Reserved
+                </script> <a href="https://www.dare2coders.com" class="text-primary text-decoration-none">Dare2Coders</a>&nbsp;|&nbsp;All Right Reserved
             | Designed and Developed by <span class="text-primary"><a href="https://incredibles.dare2coders.com" class="text-decoration-none">Incredibles</a>.</span></p>
         </div>
     </footer>
