@@ -154,8 +154,8 @@
             <p class="m-0 text-center text-light ">Copyright &copy; <script>
                     var year = new Date();
                     document.write(year.getFullYear());
-                </script> <a href="https://www.dare2coders.com" class="text-primary text-decoration-none">Dare2Coders</a>&nbsp;|&nbsp;All Right Reserved
-            | Designed and Developed by <span class="text-primary"><a href="https://incredibles.dare2coders.com" class="text-decoration-none">Incredibles</a>.</span></p>
+                </script> <a href="https://www.dare2coders.com" class="text-primary text-decoration-none">Dare2Coders</a>&nbsp;|&nbsp;All Rights Reserved
+            | Designed and Developed by <span class="text-primary"><a href="https://incredibles.dare2coders.com" class="text-decoration-none">Incredibles</a></span></p>
         </div>
     </footer>
 
